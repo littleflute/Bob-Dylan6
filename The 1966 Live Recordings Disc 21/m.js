@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 It's All Over Now, Baby Blue [Live][Live From Glasgow 5-19-66].mp3";		
+f[2]	= "02 Desolation Row [Incomplete][Live][Live From Glasgow 5-19-66].mp3";		
+f[3]	= "03 Just Like a Woman [Live][Live From Glasgow 5-19-66].mp3";		
+f[4]	= "04 Mr. Tambourine Man [Live][Live From Glasgow 5-19-66].mp3";		
+f[5]	= "05 Tell Me, Momma [Live][Live From Glasgow 5-19-66].mp3";		
+f[6]	= "06 I Don't Believe You [She Acts Like We Never Have Met] [Live From Glasgo.mp3";		
+f[7]	= "07 Baby, Let Me Follow You Down [Live][Live From Glasgow 5-19-66].mp3";		
+f[8]	= "08 Just Like Tom Thumb's Blues [Live][Live From Glasgow 5-19-66].mp3";		
+f[9]	= "09 Leopard-Skin Pill-Box Hat [Live][Live From Glasgow 5-19-66].mp3";		
+f[10]	= "10 One Too Many Mornings [Incomplete][Live][Live From Glasgow 5-19-66].mp3";		
+f[11]	= "11 Ballad of a Thin Man [Live][Live From Glasgow 5-19-66].mp3";		
+f[12]	= "12 Like a Rolling Stone [Live][Live From Glasgow 5-19-66].mp3";		
